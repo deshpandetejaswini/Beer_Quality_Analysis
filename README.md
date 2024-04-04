@@ -70,4 +70,4 @@ Summarize the key findings and insights from the analysis :
 
 # Project Development Strategy
 I divided my whole task into two days task bundle and proceeded, step by step from learning, building and deploying the project. Whatever I learned, explored, researched during this program is fully detailed in tables below:
-Link : https://docs.google.com/spreadsheets/d/1idKzuLYCOCJlQ_GF3UNA_uQfycd10-jW/edit?usp=sharing&ouid=103635047232343090927&rtpof=true&sd=true 
+Link : https://docs.google.com/document/d/1nF2ae8pW1WoQ8-L1kDxE7TlOpJbUmwrg/edit?usp=sharing&ouid=110608884634314802925&rtpof=true&sd=true
