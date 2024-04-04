@@ -32,18 +32,18 @@ Machine learning models used in the analysis:
 
 ## Results obtained from each model
 - Categorical Analysis
-   <img src="images/classificationResu.png" alt="Alt Text" align="center">
+   <img src="Images/classificationResu.png" alt="Alt Text" align="center">
 - Regression Analysis
-   <img src="images/regressionResult.png" alt="Alt Text" align="center">
+   <img src="Images/regressionResult.png" alt="Alt Text" align="center">
 
 ## Conclusion
 
 Summarize the key findings and insights from the analysis : 
 - Male are dominant consumers of most of the bears in available dataset. While 1064 bears dominantly are consumed by males only 9 beers are dominantlly consumed by females.
-  <img src="images/gender.png" alt="Alt Text" align="center">
+  <img src="Images/gender.png" alt="Alt Text" align="center">
 - The correlation plot shows strong correlation between some of the dependent variables with independent variables. The correlation is depicted below. Although 'Alcohol/Content' do not significantly affect the results though the correlation is poor for these features.
 - The correlation of 'review/text' feature is also poor only 0.325 analysed through sentiment analysis
-  <img src="images/corrplot.png" alt="Alt Text" align="center">
+  <img src="Images/corrplot.png" alt="Alt Text" align="center">
 
 
 ## Dependencies required to run the project
